@@ -1,0 +1,3 @@
+﻿  5.c
+C:\Users\00\source\repos\2024004503_강현서_DS_02\5\5.c(45,16): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  5.vcxproj -> C:\Users\00\source\repos\2024004503_강현서_DS_02\Debug\5.exe

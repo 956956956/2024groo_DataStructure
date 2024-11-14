@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kangjuyong\\Downloads\\2024004503_\uAC15\uD604\uC11C_DS_15_no\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9C2D10-01FC-4DC8-8432-183DB142B104}|1\\1.vcxproj|C:\\Users\\kangjuyong\\Downloads\\2024004503_\uAC15\uD604\uC11C_DS_15_no\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D9C2D10-01FC-4DC8-8432-183DB142B104}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99B8038-34F6-4E9D-A0BF-50F84432A556}|2\\2.vcxproj|C:\\Users\\kangjuyong\\Downloads\\2024004503_\uAC15\uD604\uC11C_DS_15_no\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B99B8038-34F6-4E9D-A0BF-50F84432A556}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\kangjuyong\\Downloads\\2024004503_\uAC15\uD604\uC11C_DS_15_no\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\kangjuyong\\Downloads\\2024004503_\uAC15\uD604\uC11C_DS_15_no\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAHMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-12T07:58:50.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\kangjuyong\\Downloads\\2024004503_\uAC15\uD604\uC11C_DS_15_no\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\kangjuyong\\Downloads\\2024004503_\uAC15\uD604\uC11C_DS_15_no\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-12T07:56:25.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

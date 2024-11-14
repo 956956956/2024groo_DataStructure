@@ -1,0 +1,8 @@
+﻿  1.c
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_11\1\1.c(71,16): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_11\1\1.c(71,16): warning C4313: 'printf': 서식 문자열의 '%p'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_11\1\1.c(78,16): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_11\1\1.c(78,16): warning C4313: 'printf': 서식 문자열의 '%p'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_11\1\1.c(88,16): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_11\1\1.c(88,16): warning C4313: 'printf': 서식 문자열의 '%p'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+  1.vcxproj -> C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_11\x64\Debug\1.exe

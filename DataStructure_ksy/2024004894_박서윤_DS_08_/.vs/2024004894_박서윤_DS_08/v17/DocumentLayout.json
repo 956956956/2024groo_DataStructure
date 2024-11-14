@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3D5FC-07A5-4B9D-9B48-C648AF89BD4E}|2\\2.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7FC3D5FC-07A5-4B9D-9B48-C648AF89BD4E}|2\\2.vcxproj|solutionrelative:2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBF8EE8-ED51-48C0-BC34-9F9F23E064A7}|1\\1.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCBF8EE8-ED51-48C0-BC34-9F9F23E064A7}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3D5FC-07A5-4B9D-9B48-C648AF89BD4E}|2\\2.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FC3D5FC-07A5-4B9D-9B48-C648AF89BD4E}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\2\\input.txt",
+              "RelativeDocumentMoniker": "2\\input.txt",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\2\\input.txt",
+              "RelativeToolTip": "2\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-29T18:36:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T06:55:16.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_08_\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T06:54:21.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

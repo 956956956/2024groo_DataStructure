@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F52020-9300-4249-BF7C-AAD35A12DB1C}|2\\2.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F52020-9300-4249-BF7C-AAD35A12DB1C}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EFA4B2-E7D1-4033-9DCD-CE4F59ACF7D1}|3\\3.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32EFA4B2-E7D1-4033-9DCD-CE4F59ACF7D1}|3\\3.vcxproj|solutionrelative:3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D2EDAB-449C-4FBC-8AF0-065EE0D0A7E2}|1\\1.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1D2EDAB-449C-4FBC-8AF0-065EE0D0A7E2}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\3\\3.c",
+              "RelativeDocumentMoniker": "3\\3.c",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\3\\3.c",
+              "RelativeToolTip": "3\\3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-01T08:15:30.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-30T06:55:43.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_05\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-23T06:14:02.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

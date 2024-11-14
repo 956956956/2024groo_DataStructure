@@ -1,0 +1,5 @@
+﻿  2.c
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_10\2\2.c(3,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_10\2\2.c(37,15): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_10\2\2.c(25,27): warning C4101: 'next' :참조되지 않은 지역 변수입니다.
+  2.vcxproj -> C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_10\x64\Debug\2.exe

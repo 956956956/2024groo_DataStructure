@@ -1,0 +1,3 @@
+﻿  1.c
+C:\Users\eiree\source\repos\2024004894_박서윤_DS_15\1\1.c(85,1): warning C4715: 'makeWinner': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  1.vcxproj -> C:\Users\eiree\source\repos\2024004894_박서윤_DS_15\x64\Debug\1.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F249CCCB-3481-403D-ADAB-4EF3ACAC8258}|2\\2.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F249CCCB-3481-403D-ADAB-4EF3ACAC8258}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD62B04-6034-485F-A9A5-CCAC06F39C2F}|5\\5.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\5\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4BD62B04-6034-485F-A9A5-CCAC06F39C2F}|5\\5.vcxproj|solutionrelative:5\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F7AD36-7B2A-4F95-9FC0-FB1F78A2E956}|4\\4.vcxproj|C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87F7AD36-7B2A-4F95-9FC0-FB1F78A2E956}|4\\4.vcxproj|solutionrelative:4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-19T11:18:50.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\4\\4.c",
+              "RelativeDocumentMoniker": "4\\4.c",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\4\\4.c",
+              "RelativeToolTip": "4\\4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-19T10:35:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\5\\5.c",
+              "RelativeDocumentMoniker": "5\\5.c",
+              "ToolTip": "C:\\Users\\eiree\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\KNU\\2024_1_2\\\uC790\uB8CC\uAD6C\uC870\\2024004894_\uBC15\uC11C\uC724_DS_09\\5\\5.c",
+              "RelativeToolTip": "5\\5.c",
+              "ViewState": "AgIAANwAAAAAAAAAAAAgwNgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-19T09:54:25.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

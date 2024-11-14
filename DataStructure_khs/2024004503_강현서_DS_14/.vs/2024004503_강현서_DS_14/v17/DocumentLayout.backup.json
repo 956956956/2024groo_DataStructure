@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_DS_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F41EADC-465B-49FD-BF00-1B22AF3AFFA2}|3\\3.vcxproj|C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_DS_14\\3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F41EADC-465B-49FD-BF00-1B22AF3AFFA2}|3\\3.vcxproj|solutionrelative:3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1610CBA-0A0C-401B-A3D6-E76D6EDDBB69}|1\\1.vcxproj|C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_DS_14\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1610CBA-0A0C-401B-A3D6-E76D6EDDBB69}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_DS_14\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_DS_14\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAABkAAAAAAAAAAAApwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-08T04:31:10.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_DS_14\\3\\3.c",
+              "RelativeDocumentMoniker": "3\\3.c",
+              "ToolTip": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_DS_14\\3\\3.c",
+              "RelativeToolTip": "3\\3.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-08T04:27:15.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  2.c
+C:\Users\eiree\source\repos\2024004894_박서윤_DS_15\2\2.c(68,6): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\eiree\source\repos\2024004894_박서윤_DS_15\2\2.c(69,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  2.vcxproj -> C:\Users\eiree\source\repos\2024004894_박서윤_DS_15\x64\Debug\2.exe

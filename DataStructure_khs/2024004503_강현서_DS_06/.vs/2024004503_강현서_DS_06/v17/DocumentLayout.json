@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_SW\uC804\uACF5\uB3D9\uC544\uB9AC_\uCF54\uB4DC\\2024004503_\uAC15\uD604\uC11C_DS_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7431B893-C9F2-4768-A3AD-6AC275A6EDDA}|2\\2.vcxproj|C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_SW\uC804\uACF5\uB3D9\uC544\uB9AC_\uCF54\uB4DC\\2024004503_\uAC15\uD604\uC11C_DS_06\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7431B893-C9F2-4768-A3AD-6AC275A6EDDA}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_SW\uC804\uACF5\uB3D9\uC544\uB9AC_\uCF54\uB4DC\\2024004503_\uAC15\uD604\uC11C_DS_06\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_SW\uC804\uACF5\uB3D9\uC544\uB9AC_\uCF54\uB4DC\\2024004503_\uAC15\uD604\uC11C_DS_06\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_SW\uC804\uACF5\uB3D9\uC544\uB9AC_\uCF54\uB4DC\\2024004503_\uAC15\uD604\uC11C_DS_06\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-03T14:10:57.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_SW\uC804\uACF5\uB3D9\uC544\uB9AC_\uCF54\uB4DC\\2024004503_\uAC15\uD604\uC11C_DS_06\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\kangjuyong\\source\\repos\\2024004503_\uAC15\uD604\uC11C_SW\uC804\uACF5\uB3D9\uC544\uB9AC_\uCF54\uB4DC\\2024004503_\uAC15\uD604\uC11C_DS_06\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-03T07:40:20.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

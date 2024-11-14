@@ -1,0 +1,4 @@
+﻿  2.c
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_01\2\2.c(17,11): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
+C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_01\2\2.c(16,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  2.vcxproj -> C:\Users\eiree\OneDrive\바탕 화면\KNU\2024_1_2\자료구조\2024004894_박서윤_DS_01\x64\Debug\2.exe

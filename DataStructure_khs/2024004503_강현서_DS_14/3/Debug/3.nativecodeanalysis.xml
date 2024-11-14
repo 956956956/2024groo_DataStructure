@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\00\source\repos\2024004503_강현서_DS_14\3\</FILEPATH>
+      <FILENAME>3.c</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>반환 값이 무시되었습니다. 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\00\source\repos\2024004503_강현서_DS_14\3\</FILEPATH>
+      <FILENAME>3.c</FILENAME>
+      <LINE>56</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>NULL 포인터 'pre'을(를) 역참조하고 있습니다. </DESCRIPTION>
+    <FUNCTION>modifySearch</FUNCTION>
+    <DECORATED>modifySearch</DECORATED>
+    <FUNCLINE>52</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\00\source\repos\2024004503_강현서_DS_14\3\</FILEPATH>
+        <FILENAME>3.c</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\00\source\repos\2024004503_강현서_DS_14\3\</FILEPATH>
+        <FILENAME>3.c</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'pre'은(는) NULL일 수 있습니다. (이 루프 시작)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\00\source\repos\2024004503_강현서_DS_14\3\</FILEPATH>
+        <FILENAME>3.c</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>이 분기 시작, ('k==root-&gt;data.key' 가정)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\00\source\repos\2024004503_강현서_DS_14\3\</FILEPATH>
+        <FILENAME>3.c</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'pre'이(가) 역참조되었지만 여전히 NULL일 수 있습니다.</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

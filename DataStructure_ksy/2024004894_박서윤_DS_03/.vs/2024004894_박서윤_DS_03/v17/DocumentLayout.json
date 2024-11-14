@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC81889-D972-4AA2-AB6B-34761152F469}|5\\5.vcxproj|C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\5\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DC81889-D972-4AA2-AB6B-34761152F469}|5\\5.vcxproj|solutionrelative:5\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5C7DC0-E110-4949-8CF6-B5DFE72888B8}|3\\3.vcxproj|C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB5C7DC0-E110-4949-8CF6-B5DFE72888B8}|3\\3.vcxproj|solutionrelative:3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8B123-A1AC-4A44-AF1D-2981CF253D37}|4\\4.vcxproj|C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97E8B123-A1AC-4A44-AF1D-2981CF253D37}|4\\4.vcxproj|solutionrelative:4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C690F7-8CF9-467E-B937-4687C19A8DEF}|2\\2.vcxproj|C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7C690F7-8CF9-467E-B937-4687C19A8DEF}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0773491B-43B2-4DF0-99D2-25424861D2A5}|1\\1.vcxproj|C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0773491B-43B2-4DF0-99D2-25424861D2A5}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\5\\5.c",
+              "RelativeDocumentMoniker": "5\\5.c",
+              "ToolTip": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\5\\5.c",
+              "RelativeToolTip": "5\\5.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-11T07:08:44.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\4\\4.c",
+              "RelativeDocumentMoniker": "4\\4.c",
+              "ToolTip": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\4\\4.c",
+              "RelativeToolTip": "4\\4.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-11T06:57:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\3\\3.c",
+              "RelativeDocumentMoniker": "3\\3.c",
+              "ToolTip": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\3\\3.c",
+              "RelativeToolTip": "3\\3.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-11T06:22:34.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-11T06:15:23.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\eiree\\source\\repos\\2024004894_\uBC15\uC11C\uC724_DS_03\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-11T06:14:19.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

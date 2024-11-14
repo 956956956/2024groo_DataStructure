@@ -1,0 +1,4 @@
+﻿  3.c
+C:\Users\00\source\repos\2024004503_강현서_DS_04\3\3.c(44,19): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+C:\Users\00\source\repos\2024004503_강현서_DS_04\3\3.c(45,19): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+  3.vcxproj -> C:\Users\00\source\repos\2024004503_강현서_DS_04\Debug\3.exe
