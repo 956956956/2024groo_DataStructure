@@ -1,0 +1,7 @@
+﻿  1.c
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_18\1\1.c(40,19): warning C4047: '함수': 'element *'의 간접 참조 수준이 'element (*)[50]'과(와) 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_18\1\1.c(40,9): warning C4024: 'sort_E': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_18\1\1.c(43,11): warning C4047: '함수': 'element *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_18\1\1.c(43,10): warning C4024: 'kruskal': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_18\1\1.c(48,18): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  1.vcxproj -> C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_18\x64\Debug\1.exe

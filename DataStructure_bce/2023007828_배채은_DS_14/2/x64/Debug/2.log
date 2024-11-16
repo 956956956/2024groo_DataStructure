@@ -1,0 +1,10 @@
+﻿  2.c
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\2\2.c(27,19): warning C4047: '함수': 'element *'의 간접 참조 수준이 'element (*)[100]'과(와) 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\2\2.c(27,14): warning C4024: 'insertHeap': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\2\2.c(28,18): warning C4047: '함수': 'element *'의 간접 참조 수준이 'element (*)[100]'과(와) 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\2\2.c(28,13): warning C4024: 'printHeap': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\2\2.c(33,34): warning C4047: '함수': 'element *'의 간접 참조 수준이 'element (*)[100]'과(와) 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\2\2.c(33,29): warning C4024: 'deleteHeap': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\2\2.c(35,18): warning C4047: '함수': 'element *'의 간접 참조 수준이 'element (*)[100]'과(와) 다릅니다.
+C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\2\2.c(35,13): warning C4024: 'printHeap': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  2.vcxproj -> C:\Users\user\Desktop\자구응(2024)\2023007828_배채은_DS_14\x64\Debug\2.exe

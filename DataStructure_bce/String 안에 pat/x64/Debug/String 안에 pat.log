@@ -1,0 +1,4 @@
+﻿  String안pat.c
+C:\Users\user\Desktop\자구응(2024)\자구공부\String 안에 pat\String안pat.c(21,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\자구응(2024)\자구공부\String 안에 pat\String안pat.c(22,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  String 안에 pat.vcxproj -> C:\Users\user\Desktop\자구응(2024)\자구공부\x64\Debug\String 안에 pat.exe
