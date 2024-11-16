@@ -1,0 +1,6 @@
+a+b*c%d-a/d
+((((a-b)*c)+d-e)%a)-e
+a+b-c+e-f-((a*b)+(c*d))
+(a+b)+(c+d)+(e-f)+(g-h)
+((a+b)-c)*d)-e
+a+(((b+c)-d-e)

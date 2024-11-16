@@ -1,0 +1,6 @@
+﻿  1.c
+C:\DataStructure\9-2\9-2\1.c(31,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\DataStructure\9-2\9-2\1.c(31,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\DataStructure\9-2\9-2\1.c(96,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\DataStructure\9-2\9-2\1.c(112,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  9-2.vcxproj -> C:\DataStructure\9-2\x64\Debug\9-2.exe

@@ -1,0 +1,4 @@
+﻿  1.c
+C:\DataStructure\7-1\7-1\1.c(21,14): warning C4101: 'curr' :참조되지 않은 지역 변수입니다.
+C:\DataStructure\7-1\7-1\1.c(79,28): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  7-1.vcxproj -> C:\DataStructure\7-1\x64\Debug\7-1.exe

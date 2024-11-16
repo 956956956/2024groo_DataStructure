@@ -1,0 +1,5 @@
+﻿  1.c
+C:\DataStructure\13-1\1.c(55,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\DataStructure\13-1\1.c(85,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\DataStructure\13-1\1.c(115,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  13-1.vcxproj -> C:\DataStructure\13-1\x64\Debug\13-1.exe

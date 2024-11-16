@@ -1,0 +1,6 @@
+5
+Kim 90 20
+Lee 95 21
+Park 85 19
+Choi 100 22
+Kang 80 20
